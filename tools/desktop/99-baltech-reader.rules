@@ -1,0 +1,1 @@
+KERNEL=="hidraw*", ATTRS{idVendor}=="13ad", MODE="0660", GROUP="baltech"
